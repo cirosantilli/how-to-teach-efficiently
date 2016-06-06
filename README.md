@@ -24,6 +24,7 @@ Helping others makes students feel good and get money.
     1.  [Give answers](#give-answers)
 1.  [Talk to individuals](#talk-to-individuals)
 1.  [Learn by teaching](#learn-by-teaching)
+1.  [Misc](#misc)
 
 ### Don't repeat
 
@@ -101,3 +102,9 @@ It is better to deeply understand what 25% of the students feel and adapt the co
 Incentive students to learn by teaching.
 
 How? Give them the source code for the textbook and tell them to hack away.
+
+## Misc
+
+A friend has told me that in the Soviet union, when people won Science Olympiads, they would be put into direct contact with university teachers to continue learning.
+
+I don't like those Olympiads myself (go do some useful end goal instead of getting medals...) but this is *way* smarter than what happens in some countries today (at least in Brazil where I grew up): you win the Olympiad, get a congratulation, your high school puts a publicity propaganda to get more enrollments, and that's it.
