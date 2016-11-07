@@ -1,4 +1,4 @@
-# Extreme Teaching
+# Extreme Teaching Manifesto
 
 Students don't care about you and you feel like crap. Read on.
 
