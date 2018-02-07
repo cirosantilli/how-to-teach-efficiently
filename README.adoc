@@ -1,0 +1,174 @@
+= How to teach efficiently
+:toc:
+:toc-title:
+:toclevels: 5
+:numbered:
+
+== Use the Internet
+
+If you give a course in a classroom, you reach 10 people (the others were sleeping).
+
+If you make a perfect course online, and answer questions online, you reach 10 thousand.
+
+Not doing things online is a waste of time.
+
+You are a highly trained professional, and your time is extremely valuable.
+
+Even if it takes twice as long to create the material than giving course, you are still more efficient by a factor of 500.
+
+It is as if there were 500 little copies of you working full time. It is a superpower.
+
+== Give answers
+
+Give students answers to all questions.
+
+Explain in extreme detail how each result was reached.
+
+Students have the amazing capacity of not looking at answers if they don't want to.
+
+And when they've had enough, then can read answers and understand while the problem is fresh in their minds.
+
+If you don't give answers, no one will be able to use your online material without you being there to hold their hands.
+
+== Text, not video
+
+Use textual materials because they:
+
+- are faster to create and edit
+- use less disk space
+- faster to copy between computers
+- are easier to search: Ctrl + F on the browser and off you go. And then `grep` if you have superpowers.
+
+== Use English
+
+By writing in English you reach more people.
+
+Writing in any other language is a waste of time.
+
+The reason is simple: English speakers control a huge proportion of the world's GDP.
+
+Students who don't know English will never do anything truly useful in science and technology. So it is pointless to teach them anything (besides English itself).
+
+== Search before creating
+
+Search a lot first, and only create your own when you can't find something that suits you.
+
+Someone else has already written everything you can come up with.
+
+And if you do find something useful that you want to modify, propose your modifications to the author: they can also be useful to them and others.
+
+== Advertise your material
+
+Once you have crated something awesome, you have to advertise it, otherwise no one will ever find.
+
+This means:
+
+- whenever you walk into a classroom, give students a link to the material
++
+Then ask them if they want to talk about anything.
++
+Then leave the classroom and go produce more good material instead of wasting your time there :-)
+- whenever someone asks as question on an online forum, answer it, and link to the section of your material that also answers that question.
++
+The material will answer many of their future questions.
+
+Eventually, people will find you on the front page of Google searches, and then you will know that you've truly made something useful.
+
+== Publish somewhere people can comment
+
+Then, if people find errors, or have questions, they will write a comment near the content itself.
+
+Then, next person that comes along and has the same problem, will also find that comment, and your answer will solve their problems too.
+
+The perfect way to do this is to use https://github.com/cirosantilli/how-to-teach-efficiently/issues[GitHub issues]
+
+== Publish your source
+
+For example, if you write LaTeX files for you PDFs, give both PDFs and the LaTeX.
+
+This allows other people to:
+
+- modify and reuse your material
+- make improvement suggestions that you can accept by clicking a button
++
+The perfect way to do this is to use https://help.github.com/articles/about-pull-requests/[GitHub pull requests]
+
+== Let students learn by teaching
+
+Tell students to:
+
+- make suggestions to the course material themselves. Review their suggestions, and accept the best ones.
+- answer the questions of other students on your online forum. Let them work instead of you.
+
+Praise those that do this very highly, and give them better grades if you have that superpower.
+
+== Explain how to make money with the lesson
+
+People will be more interested if they see how the stuff they are learning is useful.
+
+Useful 99% of the time means you can make money with it.
+
+== Use the CC Attribution-ShareAlike license
+
+https://creativecommons.org/licenses/by-sa/2.5/
+
+This way people have to link back to you, which makes you more famous.
+
+And they can't steal your material without giving anything back.
+
+This is what Wikipedia and Stack Exchange use.
+
+== Talk, don't teach
+
+When you do get face to face time with students, don't teach.
+
+Everything you want to teach is already online.
+
+The only goal of meeting students is talking to them individually or in small groups to:
+
+- understand what they feel
+- transmit your passion for the subject
+
+and letting them do the same amongst themselves.
+
+If you talk to a large group, you will only reach / understand a very small percentage of the group, so your time is wasted.
+
+It is better to deeply understand what 25% of the students feel and adapt the course material, than to talk to everyone at once, and have only 5% understand anything.
+
+== Version your material
+
+Whenever you make a change to your material, people should still be able to access the previous version.
+
+Maybe there was something in the previous version that they needed, and you just removed.
+
+Git + GitHub is the perfect way to do versioning.
+
+== Help students achieve their goal
+
+Don't teach.
+
+Your material is useless.
+
+Ask students what they want to do, and help them achieve that goal.
+
+If they don't know what to do, give suggestions of interesting things they could do.
+
+Once they have a goal, help them learn everything that is needed to achieve that goal: https://en.wikipedia.org/wiki/Backward_design
+
+If those things happen to be what you know, great, teach them.
+
+Otherwise, and this is much more likely, help them find the information that they need.
+
+== Become famous through teaching
+
+There is only one thing that can truly motivate you to make good materials: becoming famous.
+
+Strive for that. Make good materials. Publish them. Get good reviews. Loop.
+
+This generates a virtuous loop, which makes you produce better and better material.
+
+== Bibliography
+
+People who want to change education as well:
+
+- http://settheory.net/academic-system
