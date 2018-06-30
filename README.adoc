@@ -114,6 +114,8 @@ People will be more interested if they see how the stuff they are learning is us
 
 Useful 99% of the time means you can make money with it.
 
+And if it can't money, there is only one other thing people crave: beauty. Show them the beauty of the subject.
+
 == Use the CC Attribution-ShareAlike license
 
 https://creativecommons.org/licenses/by-sa/2.5/
@@ -129,6 +131,8 @@ This is what Wikipedia and Stack Exchange use.
 When you do get face to face time with students, don't teach.
 
 Everything you want to teach is already online.
+
+And if it is not, then you are <<use-the-internet,wasting your time saying it face-to-face instead of creating such online resource>>
 
 The only goal of meeting students is talking to them individually or in small groups to:
 
